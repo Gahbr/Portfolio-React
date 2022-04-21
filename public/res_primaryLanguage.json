@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 My Name is Gabriel, I have a bachelor's degree in C.S. and I am from Brazil. I’m currently learning Full-Stack. :) I'm working with newest front-end frameworks like Angular and React. What y",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,46 +12,47 @@
     "projects": [
       {
         "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. It was the first time i used the template engine 'Mustache' on a project, and I really liked the result. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/petshop/petshop1.png",
+          "images/portfolio/petshop/petshop2.png"
         ],
-        "url": "",
+        "url": "https://infinite-crag-00685.herokuapp.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "To-do App",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/todoApp/todo1.png",
+          "images/portfolio/todoApp/todo2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Gahbr/Todo-App-Java",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-java-plain",
+            "name": "Java"
           }
+       
         ]
       },
       {
