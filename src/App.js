@@ -75,6 +75,7 @@ class App extends Component {
       }.bind(this),
       error: function (xhr, status, err) {
         alert(err);
+        console.log("DESGRAÇA");
       },
     });
   }
@@ -111,7 +112,7 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
+              data-icon="twemoji-flag-for-flag-brazil"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
