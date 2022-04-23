@@ -75,7 +75,7 @@ class App extends Component {
       }.bind(this),
       error: function (xhr, status, err) {
         alert(err);
-        console.log("DESGRAÇA");
+        console.log("deu ruim");
       },
     });
   }
