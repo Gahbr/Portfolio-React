@@ -1,0 +1,113 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 My name is Gabriel Ribeiro, I live in Brasília - Brazil and I'm 25 years old. I have a major in C.S. and my main objective is to become a Full-Stack Developer 💻. I am willing to learn any type of technology to improve my skills and gain experience. Therefore, I look forward to getting a job opportunity in this area for my professional improvement and so that I can put into practice all the knowledge I acquired throughout my studies 🚀.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Pet Shop",
+        "startDate": "2022",
+        "description": "This is a pet shop web application that I developed using NodeJS and HTML/CSS. The application is also able to show and search the pets that are available for adoption.",
+        "images": [
+          "images/portfolio/petshop/petshop1.png",
+          "images/portfolio/petshop/petshop2.png"
+        ],
+        "url": "https://infinite-crag-00685.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          }
+        ]
+      },
+      {
+        "title": "To-do App",
+        "startDate": "2022",
+        "description": "It's a CRUD application for project managing and the tasks envolved in those projects. This application was made on Java Swing.",
+        "images": [
+          "images/portfolio/todoApp/todo1.png",
+          "images/portfolio/todoApp/todo2.png"
+        ],
+        "url": "https://github.com/Gahbr/Todo-App-Java",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+       
+        ]
+      },
+      
+      {
+        "title": "Contact Manager",
+        "startDate": "2022",
+        "description": "This was my first experience with Java EE. It's a contact management web application that helps with the organization of personal contacts. This project was made with Java on the Back-End and HTML/CSS/JS on the Front-End.",
+        "images": [
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c3.png"
+        ],
+        "url": "https://github.com/Gahbr/Agenda-de-contatos",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Liderlux",
+        "title": "Front-End Intern",
+        "years": "2017 - 2018",
+        "mainTech": [
+          "HTML5"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }
