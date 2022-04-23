@@ -20,7 +20,9 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://gahbr.github.io/Portfolio-React/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="https://user-images.githubusercontent.com/80289718/164944202-a538d5fc-722c-47f0-9bf4-1ac3c14a9cb8.png" alt="react frontend dev portfolio preview"/>
+
+
 
 <h3>:books: Getting started</h3>
 
@@ -32,7 +34,7 @@ Check live demonstration <a href="https://gahbr.github.io/Portfolio-React/"><str
 // package.json
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "homepage": "https://Gahbr.github.io/Portfolio-React/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -127,7 +129,8 @@ homepage property or json data won't load.
 
 If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
 
-<h3>:camera: Credits(images)</h3>
+<h3>:camera: Credits</h3>
+<a href="https://github.com/Dorota1997/react-frontend-dev-portfolio">Dorota1997</a>
 
 Images used in portfolio template come from Pixabay, references:
 
