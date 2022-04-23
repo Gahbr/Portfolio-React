@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 My Name is Gabriel, I have a bachelor's degree in C.S. and I am from Brazil. I’m currently learning Full-Stack. :) I'm working with newest front-end frameworks like Angular and React. What y",
+      "description": "👋 My name is Gabriel Ribeiro, I live in Brasília - Brazil and I'm 25 years old. I have a major in C.S. and my main objective is to become a Full-Stack Developer 💻. I am willing to learn any type of technology to improve my skills and gain experience. Therefore, I look forward to getting a job opportunity in this area for my professional improvement and so that I can put into practice all the knowledge I acquired throughout my studies 🚀.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Pet Shop",
         "startDate": "2022",
-        "description": " It was the first time I used the template engine 'Mustache' on a project, and I really liked the result.",
+        "description": "This is a pet shop web application that I developed using NodeJS and HTML/CSS. The application is also able to show and search the pets that are available for adoption.",
         "images": [
           "images/portfolio/petshop/petshop1.png",
           "images/portfolio/petshop/petshop2.png"
@@ -61,9 +61,9 @@
       },
       
       {
-        "title": "Contact Manager application",
+        "title": "Contact Manager",
         "startDate": "2022",
-        "description": "Java EE web application for a contact list. It was my first experience with Java EE.",
+        "description": "This was my first experience with Java EE. It's a contact management web application that helps with the organization of personal contacts. This project was made with Java on the Back-End and HTML/CSS/JS on the Front-End.",
         "images": [
           "images/portfolio/contactManager/c2.png",
           "images/portfolio/contactManager/c2.png",
