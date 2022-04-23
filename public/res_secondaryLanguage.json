@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Saudações!",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "👋 Meu nome é Gabriel Ribeiro e meu objetivo de carreira é me tornar um desenvolvedor Full-Stack. Estou estudando todos os dias para obter conhecimento e para meu aperfeiçoamento profissional. Ademais, eu anseio conseguir uma oportunidade de emprego na área de desenvolvimento para que eu possa colocar em prática todos os meus conhecimentos adquiridos com a minha formação acadêmica.",
       "section_name": {
         "about": "Sobre Mim",
         "projects": "Projetos",
@@ -11,38 +11,42 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Pet Shop",
+        "startDate": "2022",
+        "description": "Projeto feito em NodeJs no Back-End e HTML/CSS no Front-End, com o intuito de criar um sistema de gerenciamento de petshop, com a finalidade facilitar a pesquisa dos animais. ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/petshop/petshop1.png",
+          "images/portfolio/petshop/petshop2.png"
         ],
-        "url": "",
+        "url": "https://infinite-crag-00685.herokuapp.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "To-do App",
+        "startDate": "2022",
+        "description": "Aplicação CRUD com o intuito de criar um sistema de gerenciamento de tarefas, com a finalidade facilitar a organização de tarefas. Esse projeto foi feito em Java Swing.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/todoApp/todo1.png",
+          "images/portfolio/todoApp/todo2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Gahbr/Todo-App-Java",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,61 +59,52 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Agenda de contatos",
+        "startDate": "2022",
+        "description": "Projeto em Java Web com o intuito de criar um sistema de gerenciamento de contatos para facilitar a organização de contatos. Esse projeto foi feito em Java no Back-End e HTML/CSS/JS no Front-End.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Gahbr/Agenda-de-contatos",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Liderlux",
+        "title": "Front-End Intern",
+        "years": "2017 - 2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML5"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       }
     ]

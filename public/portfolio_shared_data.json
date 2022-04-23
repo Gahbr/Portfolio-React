@@ -54,6 +54,11 @@
           "level": "80"
         },
         {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level":"60"
+      },
+        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
@@ -67,11 +72,7 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
-        },
-        {"name": "Java",
-        "class": "devicon-java-plain",
-        "level":"60"
-      }
+        }
       ]
     }
   }
