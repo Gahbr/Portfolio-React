@@ -13,7 +13,7 @@
       {
         "title": "Animal Shelter",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. It was the first time i used the template engine 'Mustache' on a project, and I really liked the result. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": " It was the first time I used the template engine 'Mustache' on a project, and I really liked the result.",
         "images": [
           "images/portfolio/petshop/petshop1.png",
           "images/portfolio/petshop/petshop2.png"
@@ -41,7 +41,7 @@
       {
         "title": "To-do App",
         "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "It's a CRUD application for project managing and the tasks envolved in those projects. This application was made on Java Swing.",
         "images": [
           "images/portfolio/todoApp/todo1.png",
           "images/portfolio/todoApp/todo2.png"
@@ -51,31 +51,45 @@
           {
             "class": "devicon-java-plain",
             "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
        
         ]
       },
+      
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Contact Manager application",
+        "startDate": "2022",
+        "description": "Java EE web application for a contact list. It was my first experience with Java EE.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c2.png",
+          "images/portfolio/contactManager/c3.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       }
