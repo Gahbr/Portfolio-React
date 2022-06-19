@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import springIcon from "@iconify/icons-logos/spring";
 import reactIcon from "@iconify/icons-logos/react";
 import jsIcon from "@iconify/icons-logos/javascript";
+import tsIcon from "@iconify/icons-logos/typescript-icon";
 import javaIcon from "@iconify/icons-logos/java";
 import nodeJs from "@iconify/icons-logos/nodejs";
 
@@ -32,12 +33,9 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                   <Icon
-                    icon={jsIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                 
                   <Icon
-                    icon={angularIcon}
+                    icon={tsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
@@ -52,6 +50,11 @@ class About extends Component {
                     icon={javaIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                    <Icon
+                    icon={springIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  
                 </span>
               </div>
             </div>
