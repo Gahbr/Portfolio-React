@@ -41,7 +41,7 @@
       {
         "title": "To-do App",
         "startDate": "2022",
-        "description": "Aplicação CRUD com o intuito de criar um sistema de gerenciamento de tarefas, com a finalidade facilitar a organização de tarefas. Esse projeto foi feito em Java Swing.",
+        "description": "Aplicação de controle de tarefas, com a finalidade de resolver a questão de organização de tarefas de um ou vários projetos. Esse projeto foi feito em Java Swing.",
         "images": [
           "images/portfolio/todoApp/todo1.png",
           "images/portfolio/todoApp/todo2.png"
