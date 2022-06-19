@@ -90,6 +90,40 @@
             "name": "MySQL"
           }
         ]
+      },
+
+      {
+        "title": "Covid Tracker Application",
+        "startDate": "2022",
+        "description": "Aplicação em Java Spring Boot que monitora casos confirmados de Coronavirus COVID-19 (2019-nCoV) no mundo.",
+        "images": [
+          "images/portfolio/covid-tracker/ct1.png",
+          "images/portfolio/covid-tracker/ct2.png"
+          
+        ],
+        "url": "https://github.com/Gahbr/covid-tracker-app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring boot"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
       }
     ],
     "experience": [

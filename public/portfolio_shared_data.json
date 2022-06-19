@@ -54,25 +54,31 @@
           "level": "80"
         },
         {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
         "name": "Java",
         "class": "devicon-java-plain",
         "level":"60"
       },
+      {
+        "name":"Spring",
+        "class":"devicon-spring-plain-wordmark",
+        "level":"30"
+      },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
         }
+    
       ]
     }
   }
