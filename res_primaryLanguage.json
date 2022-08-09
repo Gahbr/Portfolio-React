@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 My name is Gabriel Ribeiro, I live in Brasília - Brazil and I'm 25 years old. I have a major in C.S. and my main objective is to become a Full-Stack Developer 💻. I am willing to learn any type of technology to improve my skills and gain experience. Therefore, I look forward to getting a job opportunity in this area for my professional improvement and so that I can put into practice all the knowledge I acquired throughout my studies 🚀.",
+      "description": "👋 My name is Gabriel Ribeiro and I live in Brasília - Brazil. I have a major in C.S. and my main objective is to become a Full-Stack Developer 💻. I am willing to learn any type of technology to improve my skills and gain experience. Therefore, I look forward to getting a job opportunity in this area for my professional improvement and so that I can put into practice all the knowledge I acquired throughout my studies 🚀.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,6 +10,79 @@
       }
     },
     "projects": [
+      {
+        "title": "Sales Report",
+        "startDate": "2022",
+        "description": "Application that makes a report of the sales made by the sellers, filtered according to the date chosen by the user and also with an option to send an SMS with the data of the chosen seller. ",
+        "images": [
+          "images/portfolio/Sales-report/sales1.jpg"
+                    
+        ],
+        "url": "https://dsmeta-page.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring boot"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
+      },
+      {
+        "title": "Covid Tracker Application",
+        "startDate": "2022",
+        "description": "Java Spring Boot application that track reported data of confirmed Coronavirus infections COVID-19 (2019-nCoV) around the world.",
+        "images": [
+          "images/portfolio/covid-tracker/ct1.png",
+          "images/portfolio/covid-tracker/ct2.png"
+          
+        ],
+        "url": "https://github.com/Gahbr/covid-tracker-app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring boot"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
+      },
       {
         "title": "Pet Shop",
         "startDate": "2022",
@@ -59,7 +132,6 @@
        
         ]
       },
-      
       {
         "title": "Contact Manager",
         "startDate": "2022",
@@ -93,25 +165,44 @@
           }
         ]
       },
-
       {
-        "title": "Covid Tracker Application",
+        "title": "Other projects",
         "startDate": "2022",
-        "description": "Java Spring Boot application that track reported data of confirmed Coronavirus infections COVID-19 (2019-nCoV) around the world.",
+        "description": "Click on the link above to see my other projects that I'm constantly building and updating! ",
         "images": [
-          "images/portfolio/covid-tracker/ct1.png",
-          "images/portfolio/covid-tracker/ct2.png"
+          "images/portfolio/other-projects/OtherProjects.png"
+          
           
         ],
-        "url": "https://github.com/Gahbr/covid-tracker-app",
+        "url": "https://github.com/Gahbr?tab=repositories",
         "technologies": [
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-java-plain",
@@ -125,6 +216,22 @@
             "class": "devicon-heroku-original",
             "name": "Heroku"
           }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Liderlux",
+        "title": "Front-End Intern",
+        "years": "2017 - 2018",
+        "mainTech": [
+          "HTML5"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
         ]
       }
     ],
