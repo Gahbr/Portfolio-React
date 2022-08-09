@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Saudações!",
-      "description": "👋 Meu nome é Gabriel Ribeiro e meu objetivo de carreira é me tornar um desenvolvedor Full-Stack. Estou estudando todos os dias para obter conhecimento e para meu aperfeiçoamento profissional. Ademais, eu anseio conseguir uma oportunidade de emprego na área de desenvolvimento para que eu possa colocar em prática todos os meus conhecimentos adquiridos com a minha formação acadêmica.",
+      "description": "👋 Meu nome é Gabriel Ribeiro, sou bacharel na área de TI e tenho como objetivo de carreira trabalhar e me especializar na área de desenvolvimento de software 💻. Estou estudando todos os dias para obter conhecimento e para meu aperfeiçoamento profissional. Ademais, estou procurando uma oportunidade para meu primeiro emprego como desenvolvedor em um ambiente que irá prover oportunidades de crescimento profissional, onde eu poderei constantemente aprender e aumentar meu conhecimento na área de desenvolvimento.🚀",
       "section_name": {
         "about": "Sobre Mim",
         "projects": "Projetos",
@@ -10,6 +10,80 @@
       }
     },
     "projects": [
+      {
+        "title": "Relatório de Vendas",
+        "startDate": "2022",
+        "description": "Aplicação que faz um relatório das vendas feitas pelos vendedores filtrado de acordo com a data escolhida pelo usuário e também com uma opção de enviar um SMS com os dados do vendedor escolhido.",
+        "images": [
+          "images/portfolio/Sales-report/sales1.jpg",
+          "images/portfolio/Sales-report/sales2.png"
+          
+        ],
+        "url": "https://dsmeta-page.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring boot"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
+      },
+      {
+        "title": "Covid Tracker Application",
+        "startDate": "2022",
+        "description": "Aplicação em Java Spring Boot que monitora casos confirmados de Coronavirus COVID-19 (2019-nCoV) no mundo.",
+        "images": [
+          "images/portfolio/covid-tracker/ct1.png",
+          "images/portfolio/covid-tracker/ct2.png"
+          
+        ],
+        "url": "https://github.com/Gahbr/covid-tracker-app",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring boot"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
+      },
       {
         "title": "Pet Shop",
         "startDate": "2022",
@@ -41,7 +115,7 @@
       {
         "title": "To-do App",
         "startDate": "2022",
-        "description": "Aplicação CRUD com o intuito de criar um sistema de gerenciamento de tarefas, com a finalidade facilitar a organização de tarefas. Esse projeto foi feito em Java Swing.",
+        "description": "Aplicação de controle de tarefas, com a finalidade de resolver a questão de organização de tarefas de um ou vários projetos. Esse projeto foi feito em Java Swing.",
         "images": [
           "images/portfolio/todoApp/todo1.png",
           "images/portfolio/todoApp/todo2.png"
@@ -92,24 +166,45 @@
         ]
       },
 
+     
       {
-        "title": "Covid Tracker Application",
+        "title": "Outros Projetos",
         "startDate": "2022",
-        "description": "Aplicação em Java Spring Boot que monitora casos confirmados de Coronavirus COVID-19 (2019-nCoV) no mundo.",
+        "description": "Acesse aqui meus outros projetos que estou criando e atualizando no Github! ",
         "images": [
-          "images/portfolio/covid-tracker/ct1.png",
-          "images/portfolio/covid-tracker/ct2.png"
+          "images/portfolio/other-projects/OtherProjects.png"
+          
           
         ],
-        "url": "https://github.com/Gahbr/covid-tracker-app",
+        "url": "https://github.com/Gahbr?tab=repositories",
         "technologies": [
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-java-plain",

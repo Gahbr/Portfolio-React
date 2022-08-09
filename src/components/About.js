@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import springIcon from "@iconify/icons-logos/spring";
 import reactIcon from "@iconify/icons-logos/react";
-import jsIcon from "@iconify/icons-logos/javascript";
 import tsIcon from "@iconify/icons-logos/typescript-icon";
 import javaIcon from "@iconify/icons-logos/java";
 import nodeJs from "@iconify/icons-logos/nodejs";
