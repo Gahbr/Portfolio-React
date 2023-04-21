@@ -5,7 +5,7 @@ import reactIcon from "@iconify/icons-logos/react";
 import tsIcon from "@iconify/icons-logos/typescript-icon";
 import javaIcon from "@iconify/icons-logos/java";
 import nodeJs from "@iconify/icons-logos/nodejs";
-
+import dotnet from "@iconify/icons-logos/dotnet";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -43,6 +43,10 @@ class About extends Component {
                   />
                   <Icon
                     icon={nodeJs}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                   <Icon
+                    icon={dotnet}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
