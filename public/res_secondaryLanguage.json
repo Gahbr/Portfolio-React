@@ -77,7 +77,7 @@
         "startDate": "2022",
         "description": "Microsserviço que recebe uma URL, encurta links e também faz o redirecionamento da página. Para armazenar os dados foi utilizado o banco de dados NOSQL MongoDB.",
         "images": [
-          "images/portfolio/petshop/url1.png"
+          "images/portfolio/url-shortener/url1.png"
         ],
         "url": "https://github.com/Gahbr/URL-Shortener",
         "technologies": [

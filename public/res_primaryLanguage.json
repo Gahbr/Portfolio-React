@@ -77,7 +77,7 @@
       "startDate": "2022",
       "description": "URL shortener microservice in NodeJS - ExpressJS - MongoDB",
       "images": [
-        "images/portfolio/petshop/url1.png"
+        "images/portfolio/url-shortener/url1.png"
       ],
       "url": "https://github.com/Gahbr/URL-Shortener",
       "technologies": [
