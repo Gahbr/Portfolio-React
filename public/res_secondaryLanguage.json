@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Saudações!",
-      "description": "👋 Meu nome é Gabriel Ribeiro, sou bacharel na área de TI e tenho como objetivo de carreira trabalhar e me especializar na área de desenvolvimento de software 💻. Estou estudando todos os dias para obter conhecimento e para meu aperfeiçoamento profissional. Ademais, estou procurando uma oportunidade para meu primeiro emprego como desenvolvedor em um ambiente que irá prover oportunidades de crescimento profissional, onde eu poderei constantemente aprender e aumentar meu conhecimento na área de desenvolvimento.🚀",
+      "description": "👋Olá! Sou bacharel na área de Tecnologia da Informação (T.I.) com formação em Sistemas de Informação pela UNICEPLAC (DF). Atualmente, meu objetivo é me tornar um especialista em minha área e contribuir para o sucesso da empresa com minhas habilidades e conhecimentos. 💻 Ofereço soluções em serviços digitais na área de desenvolvimento Back-End (Node/C#) e/ou Front-End (React). Desse modo, estou em busca de um ambiente de trabalho que me proporcione crescimento profissional e a possibilidade de constantemente adquirir novos conhecimentos, pois acredito que o aprendizado contínuo é essencial para se manter atualizado em um mercado tão dinâmico e competitivo. ",
       "section_name": {
         "about": "Sobre Mim",
         "projects": "Projetos",
@@ -10,6 +10,103 @@
       }
     },
     "projects": [
+      {
+        "title": "Full-stack Social Network",
+        "startDate": "2022",
+        "description": "Aplicação full‐stack (Front‐end, Back‐end e Mobile) de uma rede social chamada Parrot. Também há implementações de Swagger, Conteinerização do código, buckets de arquivos e de mensageria.",
+        "images": [
+          "images/portfolio/social-network/c1.png",
+          "images/portfolio/social-network/c2.png",
+          "images/portfolio/social-network/c3.jpg",
+          "images/portfolio/social-network/c4.jpg"
+        ],
+        "url": "https://github.com/bc-fullstack-02/Gabriel-Ribeiro",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-tailwindcss-original-wordmark",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "typeScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original-wordmark",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-original",
+            "name": "Mini.io"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "URL-Shortener",
+        "startDate": "2022",
+        "description": "Microsserviço que recebe uma URL, encurta links e também faz o redirecionamento da página. Para armazenar os dados foi utilizado o banco de dados NOSQL MongoDB.",
+        "images": [
+          "images/portfolio/petshop/url1.png"
+        ],
+        "url": "https://github.com/Gahbr/URL-Shortener",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-express-original-wordmark",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
       {
         "title": "Relatório de Vendas",
         "startDate": "2022",
@@ -85,34 +182,6 @@
         ]
       },
       {
-        "title": "Pet Shop",
-        "startDate": "2022",
-        "description": "Projeto feito em NodeJs no Back-End e HTML/CSS no Front-End, com o intuito de criar um sistema de gerenciamento de petshop, com a finalidade facilitar a pesquisa dos animais. ",
-        "images": [
-          "images/portfolio/petshop/petshop1.png",
-          "images/portfolio/petshop/petshop2.png"
-        ],
-        "url": "https://infinite-crag-00685.herokuapp.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJs"
-          }
-        ]
-      },
-      {
         "title": "To-do App",
         "startDate": "2022",
         "description": "Aplicação de controle de tarefas, com a finalidade de resolver a questão de organização de tarefas de um ou vários projetos. Esse projeto foi feito em Java Swing.",
@@ -132,39 +201,6 @@
           }
         ]
       },
-      {
-        "title": "Agenda de contatos",
-        "startDate": "2022",
-        "description": "Projeto em Java Web com o intuito de criar um sistema de gerenciamento de contatos para facilitar a organização de contatos. Esse projeto foi feito em Java no Back-End e HTML/CSS/JS no Front-End.",
-        "images": [
-          "images/portfolio/contactManager/c2.png",
-          "images/portfolio/contactManager/c2.png",
-          "images/portfolio/contactManager/c3.png"
-        ],
-        "url": "https://github.com/Gahbr/Agenda-de-contatos",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },     
       {
         "title": "Outros Projetos",
         "startDate": "2022",
@@ -220,6 +256,25 @@
       }
     ],
     "experience": [
+      {
+        "company": "Sysmap",
+        "title": "Programa de Desenvolvedor Full-stack Trainee ",
+        "years": "2022",
+        "mainTech": [
+          "Node.js"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "TypeScript",
+          "Node.js",
+          "React.js",
+          "Docker",
+          "RabbitMQ",
+          "Express.js"
+        ]
+      },
       {
         "company": "Liderlux",
         "title": "Front-End Intern",

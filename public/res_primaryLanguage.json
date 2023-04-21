@@ -277,17 +277,37 @@
   ],
   "experience": [
     {
-      "company": "Liderlux",
-      "title": "Front-End Intern",
-      "years": "2017 - 2018",
+      "company": "Sysmap",
+      "title": "Full-stack Trainee Developer Program",
+      "years": "2022",
       "mainTech": [
-        "HTML5"
+        "Node.js"
       ],
       "technologies": [
         "HTML5",
         "CSS",
         "JavaScript",
-        "Bootstrap"
+        "TypeScript",
+        "Node.js",
+        "React.js",
+        "Docker",
+        "RabbitMQ",
+        "Express.js"
+      ]
+    },
+    {
+      "company": "Liderlux",
+      "title": "Front-End Intern",
+      "years": "2017 - 2018",
+      "mainTech": [
+        "Javascript"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "JQuery"
       ]
     }
   ]
