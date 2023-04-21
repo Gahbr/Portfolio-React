@@ -1,254 +1,315 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 My name is Gabriel Ribeiro and I live in Brasília - Brazil. I have a major in C.S. and my main objective is to become a Full-Stack Developer 💻. I am willing to learn any type of technology to improve my skills and gain experience. Therefore, I look forward to getting a job opportunity in this area for my professional improvement and so that I can put into practice all the knowledge I acquired throughout my studies 🚀.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hey!👋 My name is Gabriel Ribeiro, and I live in Brasília ‑ Brazil. I have a major in C.S. and my main objective is to specialize in Software engineering 💻. I am willing to learn any technology to hone my skills and gain experience. I enjoy working on new projects and challenging myself with new technologies and programming concepts. If you are interested in seeing my previous projects or tracking my progress on new projects, feel free to take a look at my Github profile 👀.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Full-stack Social Network",
+      "startDate": "2022",
+      "description": "Full‐stack application (Front‐end, Back‐end, and Mobile) of a social network called PARROT 🦜. There are also implementations of Swag‐ger, containerization, buckets and message brokers.",
+      "images": [
+        "images/portfolio/social-network/c1.png",
+        "images/portfolio/social-network/c2.png",
+        "images/portfolio/social-network/c3.jpg",
+        "images/portfolio/social-network/c4.jpg"
+      ],
+      "url": "https://github.com/bc-fullstack-02/Gabriel-Ribeiro",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-tailwindcss-original-wordmark",
+          "name": "Tailwind"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "typeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-express-original-wordmark",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "Mini.io"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Sales Report",
-        "startDate": "2022",
-        "description": "Application that makes a report of the sales made by the sellers, filtered according to the date chosen by the user and also with an option to send an SMS with the data of the chosen seller. ",
-        "images": [
-          "images/portfolio/Sales-report/sales1.jpg"
-                    
-        ],
-        "url": "https://dsmeta-page.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-spring-plain-wordmark",
-            "name": "Spring boot"
-          },
-          {
-            "class": "devicon-heroku-original",
-            "name": "Heroku"
-          }
-        ]
-      },
-      {
-        "title": "Covid Tracker Application",
-        "startDate": "2022",
-        "description": "Java Spring Boot application that track reported data of confirmed Coronavirus infections COVID-19 (2019-nCoV) around the world.",
-        "images": [
-          "images/portfolio/covid-tracker/ct1.png",
-          "images/portfolio/covid-tracker/ct2.png"
-          
-        ],
-        "url": "https://github.com/Gahbr/covid-tracker-app",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-spring-plain-wordmark",
-            "name": "Spring boot"
-          },
-          {
-            "class": "devicon-heroku-original",
-            "name": "Heroku"
-          }
-        ]
-      },
-      {
-        "title": "Pet Shop",
-        "startDate": "2022",
-        "description": "This is a pet shop web application that I developed using NodeJS and HTML/CSS. The application is also able to show and search the pets that are available for adoption.",
-        "images": [
-          "images/portfolio/petshop/petshop1.png",
-          "images/portfolio/petshop/petshop2.png"
-        ],
-        "url": "https://infinite-crag-00685.herokuapp.com",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJs"
-          }
-        ]
-      },
-      {
-        "title": "To-do App",
-        "startDate": "2022",
-        "description": "It's a CRUD application for project managing and the tasks envolved in those projects. This application was made on Java Swing.",
-        "images": [
-          "images/portfolio/todoApp/todo1.png",
-          "images/portfolio/todoApp/todo2.png"
-        ],
-        "url": "https://github.com/Gahbr/Todo-App-Java",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-       
-        ]
-      },
-      {
-        "title": "Contact Manager",
-        "startDate": "2022",
-        "description": "This was my first experience with Java EE. It's a contact management web application that helps with the organization of personal contacts. This project was made with Java on the Back-End and HTML/CSS/JS on the Front-End.",
-        "images": [
-          "images/portfolio/contactManager/c2.png",
-          "images/portfolio/contactManager/c2.png",
-          "images/portfolio/contactManager/c3.png"
-        ],
-        "url": "https://github.com/Gahbr/Agenda-de-contatos",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "Other projects",
-        "startDate": "2022",
-        "description": "Click on the link above to see my other projects that I'm constantly building and updating! ",
-        "images": [
-          "images/portfolio/other-projects/OtherProjects.png"
-          
-          
-        ],
-        "url": "https://github.com/Gahbr?tab=repositories",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJs"
-          },
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-spring-plain-wordmark",
-            "name": "Spring boot"
-          },
-          {
-            "class": "devicon-heroku-original",
-            "name": "Heroku"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Liderlux",
-        "title": "Front-End Intern",
-        "years": "2017 - 2018",
-        "mainTech": [
-          "HTML5"
-        ],
-        "technologies": [
-          "HTML5",
-          "CSS",
-          "JavaScript",
-          "Bootstrap"
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Liderlux",
-        "title": "Front-End Intern",
-        "years": "2017 - 2018",
-        "mainTech": [
-          "HTML5"
-        ],
-        "technologies": [
-          "HTML5",
-          "CSS",
-          "JavaScript",
-          "Bootstrap"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "URL-Shortener",
+      "startDate": "2022",
+      "description": "URL shortener microservice in NodeJS - ExpressJS - MongoDB",
+      "images": [
+        "images/portfolio/petshop/url1.png"
+      ],
+      "url": "https://github.com/Gahbr/URL-Shortener",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJs"
+        },
+        {
+          "class": "devicon-express-original-wordmark",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Sales Report",
+      "startDate": "2022",
+      "description": "Application that makes a report of the sales made by the sellers, filtered according to the date chosen by the user and also with an option to send an SMS with the data of the chosen seller. ",
+      "images": [
+        "images/portfolio/Sales-report/sales1.jpg"
+                  
+      ],
+      "url": "https://dsmeta-page.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-spring-plain-wordmark",
+          "name": "Spring boot"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        }
+      ]
+    },
+    {
+      "title": "Covid Tracker Application",
+      "startDate": "2022",
+      "description": "Java Spring Boot application that track reported data of confirmed Coronavirus infections COVID-19 (2019-nCoV) around the world.",
+      "images": [
+        "images/portfolio/covid-tracker/ct1.png",
+        "images/portfolio/covid-tracker/ct2.png"
+        
+      ],
+      "url": "https://github.com/Gahbr/covid-tracker-app",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-spring-plain-wordmark",
+          "name": "Spring boot"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        }
+      ]
+    },
+    {
+      "title": "To-do App",
+      "startDate": "2022",
+      "description": "It's a CRUD application for project managing and the tasks envolved in those projects. This application was made on Java Swing.",
+      "images": [
+        "images/portfolio/todoApp/todo1.png",
+        "images/portfolio/todoApp/todo2.png"
+      ],
+      "url": "https://github.com/Gahbr/Todo-App-Java",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+     
+      ]
+    },
+    {
+      "title": "Other projects",
+      "startDate": "2022",
+      "description": "Click on the link above to see my other projects that I'm constantly building and updating! ",
+      "images": [
+        "images/portfolio/other-projects/OtherProjects.png"
+        
+        
+      ],
+      "url": "https://github.com/Gahbr?tab=repositories",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJs"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": "ASP.NET CORE"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-spring-plain-wordmark",
+          "name": "Spring boot"
+        },
+        {
+          "class": "devicon-heroku-original",
+          "name": "Heroku"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "Amazon S3"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sysmap",
+      "title": "Full-stack Trainee Developer Program",
+      "years": "2022",
+      "mainTech": [
+        "Node.js"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "React.js",
+        "Docker",
+        "RabbitMQ",
+        "Express.js"
+      ]
+    },
+    {
+      "company": "Liderlux",
+      "title": "Front-End Intern",
+      "years": "2017 - 2018",
+      "mainTech": [
+        "Javascript"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "JQuery"
+      ]
+    }
+  ]
+  
+}
